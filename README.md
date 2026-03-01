@@ -1,16 +1,15 @@
-## Hi there 👋
+While most freshmen are doing homework, I'm shipping AI systems to real clients.
+Founder @ Beconix LLC · CS @ Hunter College CUNY
 
-<!--
-**bilal-beconix/bilal-beconix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 What I'm Building
+Voice AI agents that book, reschedule, and report — without a human touching anything
+Automation pipelines running 24/7 for a $1M+ revenue business
+A dispatch platform that manages field service jobs autonomously
 
-Here are some ideas to get you started:
+🧰 Tools
+Python C++ SQL Vapi.com n8n Make.com OpenAI API AWS Pinecone Tableau
+Learning: PyTorch · LangGraph · Hugging Face
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Talk
+📧 bilalzahid132@gmail.com
+💼 LinkedIn
