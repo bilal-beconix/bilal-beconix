@@ -1,5 +1,5 @@
 
-While most freshmen are doing homework, I'm shipping AI systems to real clients.  
+While most sophomore are doing homework, I'm shipping AI systems to real clients.  
 Founder @ [Beconix LLC](https://www.beconix.com/home) · CS @ Hunter College CUNY
 
 ---
